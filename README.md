@@ -1,5 +1,6 @@
 # Data-Engineering-Pipelines-on-the-Cloud
-Project for WBS Coding School
+Project for WBS Coding School.
+
 Use of web scraping and APIs to collect data on weather, cities, and flights in order to create an automated data pipeline in the cloud.
 
 1. Scrape data from the web
